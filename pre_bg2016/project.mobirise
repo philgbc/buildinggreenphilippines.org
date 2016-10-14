@@ -1,0 +1,3560 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.4.6",
+    "versionPublish": "3.4.6",
+    "name": "buildinggreenphilippines.org",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/bg-fc2-128x119-41.png",
+    "publishType": "local",
+    "ftpLocation": "ftp://dscasilag_bg@secure-private-network.net:21",
+    "publishFtpPath": "",
+    "path": "file:///F:/BGOnline",
+    "screenshot": "screenshot.png",
+    "publishPath": "file:///C:/Users/Dave%20Casilag/Desktop/BG%20Conference%202016/BGWebsite%20(FINAL)"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span style=\"font-weight: normal;\">HOME</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-1\"><span style=\"font-weight: normal;\">TIMELINE</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-2\"><span style=\"font-weight: normal;\">ABOUT</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-0\"><span style=\"font-weight: normal;\">CONTACT US</span></a></li>       ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-nik-1736-1024-2000x1325-32.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ncc-img-2016-bg16-1400x787-83.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "BUILDING GREEN 2016",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Building Green Conference</b> is an annual event by the PHILGBC that brings together the leading green builders in the industry. Discuss and learn about sustainability initiatives from public and private sector experts.</p><p><br></p><p>Come and join us!&nbsp;</p>\u001b<p>Celebrate the World Green Building Week 2016: Change Your Perspective on <b>23 September 2016</b>, from <b>8 am to 6 pm </b>at the <b>SMX Convention Center, Pasay City.</b></p><p><br></p><p>Let us continue to&nbsp;<b>ENGAGE, LEARN, and COMPEL.</b></p><p><b><br></b></p><p>Visit this website regularly for updates!</p>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header3-0\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_styles": {
+            "B": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "<b>BG2007 @ BONIFACIO GLOBAL CITY</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg071-2000x1101-17-2000x1101-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg071-2000x1101-17.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2008 @ AYALA CENTER</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg081-2000x1101-66-2000x1101-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg081-2000x1101-66.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2009 @ EASTWOOD CITY</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg091-2000x1101-55-2000x1101-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg091-2000x1101-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2010 @ EASTWOOD CITY</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg101-2000x1101-55-2000x1101-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg101-2000x1101-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2010 CEO FORUM @ MAKATI SHANGRI-LA</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/smaller-2000x1087-94-2000x1087-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/smaller-2000x1087-94.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2010 GOVERNMENT FORUM @ MAKATI SHANGRI-LA</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1100-91-2000x1100-30.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1100-91.png",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2011 @ INTERCONTINENTAL MANILA</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg111-2000x1101-14-2000x1101-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg111-2000x1101-14.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2011 CEO FORUM @ MAKATI SHANGRI-LA</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/picture2-2000x1099-31-2000x1099-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picture2-2000x1099-31.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2012 @ F1 HOTEL</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg121-2000x1101-79-2000x1101-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg121-2000x1101-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2013 @ NEW WORLD HOTEL</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg131-2000x1101-18-2000x1101-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg131-2000x1101-18.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2014 @ SMX CONVENTION CENTER, PASAY</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg141-2000x1101-10-2000x1101-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg141-2000x1101-10.jpg",
+                "active": false
+              },
+              {
+                "caption": "<b>BG2015 @ SMX CONVENTION CENTER, PASAY</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/bg151-2000x1101-1-2000x1101-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg151-2000x1101-1.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1",
+          "articleLayout": false
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#cc1126"
+            },
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/thumb-nik-1616-1024-600x397-79.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BE PART OF THE BG2016",
+          "caption1": "Building Green Conference is an annual event by the Philippine Green Building Council that brings together fellow green builders to discuss and learn about sustainability initiatives from public and private sector experts.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#header4-0\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/thumb-nik-1890-1024-600x397-63.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "BECOME A SPONSOR",
+          "caption2": "Take part and be a sponsor! Help us transform the market one event at a time. ",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#header4-1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/thumb-nik-2406-1024-600x397-27.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "BG2016 SPEAKERS",
+          "caption3": "Don't miss the chance to learn from the experts themselves as they share their knowledge and expertise on sustainability and green building!",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#header4-2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/thumb-nik-1531-1024-600x397-0.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "AGENDA",
+          "caption4": "This year's conference guarantees inspiring talks, and meaningful discussions from the top experts in the industry!",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#header4-4\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/p1010229-2000x1125-33.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#0038a8",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "REGISTER NOW!<br>",
+          "text": "Participate and be a part of BG2016! We hope to see you there.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"http://www.globallinkmp.com/PHILGBC/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION</a> "
+        },
+        {
+          "_name": "pricing-table1",
+          "_styles": {
+            "UL": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "pricing-table1-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "green",
+            "showButtons": false,
+            "secondType": "blue",
+            "thirdType": "favorite",
+            "fourthType": "hidden",
+            "fifthType": "hidden"
+          },
+          "title1": "MEMBER",
+          "currency1": "₱",
+          "price1": "4,000",
+          "period1": "+12% VAT<br>Pre-Registration per delegate",
+          "list1": "<ul><li><b>₱5,000</b> +12% VAT</li><li>On-site Registration</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "NON-MEMBER",
+          "currency2": "₱",
+          "price2": "5,000",
+          "period2": "+12% VAT<br>Pre-registration per delegate",
+          "list2": "<ul><li><b>₱6,000 +12% VAT</b></li><li>On-site Registration</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "EXCLUSIVE SEATING",
+          "currency3": "₱",
+          "price3": "32,000",
+          "period3": "+12% VAT<br>Exclusive Table (8 delegates) <br><br>",
+          "list3": "<ul><li><b>PHILGBC Corporate Members only.</b></li><li>Subject to availability.</li><li>Only three (3) tables available!</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "ULTIMATE",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "per month",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#efefef"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "font-size": "23px"
+            },
+            ".mbr-article P": {
+              "font-size": "21px",
+              "text-align": "right"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#1e1e1e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rdr-high-res-1400x1590-34-1400x1590-54.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "TOWARDS A COLLECTIVE VISION TO SUS\u001bTAINABILITY",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<blockquote>\"This is the <b>biggest and best opportunity on both a local and global scale</b> for all of us to shine a spotlight on our movement and on our collective vision to create sustainable building environments.\"</blockquote><p><b><br></b></p><p><b>Ramon D. Rufino</b>, Chairman, PHILGBC<br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;President, The Net Group</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sponsor, Building Green Conference 2009 - 2016</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILGBC Diamond Sustaining Member<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#252525",
+              "font-size": "21px"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "font-size": "21px",
+              "color": "#252525"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/daikin-1-1400x787-38.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "TOWARDS FUTURE ENDEAVOURS FOR A GREENER WORLD",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<blockquote>Daikin Air Conditioning, with its ardent commitment to provide world class comfort atmosphere, is<b> greatly honored</b> <b>to have worked with PhilGBC</b> in <b>promoting building efficiency and sustainability</b>. We look forward to <b>more partnerships and collaboration</b> towards a greener world.</blockquote><p><br></p><p><b>Mr. Lee Wai Kok</b></p><p>President</p><p>Daikin Airconditioning Philippines</p><p>Sponsor, Building Green Conference 2015</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#efefef"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#efefef",
+              "font-size": "21px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#1e1e1e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo1-1400x1710-21.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "TOWARDS SUSTAINABLE DEVELOPMENT",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<blockquote><p><b>Congratulations to BG2015</b> for successfully implementing programs that <b>caters to sustainable development</b>. Indeed, this organization does not only <b>support green building practices</b> but also <b>educate its members </b>to take into consideration the social responsibility they have to the society. &nbsp;</p><p><br></p><p>In behalf of International Elevator &amp; Equipment, Inc. (IEE) we would like to congratulate <b>Philippine Green Building Council</b> for this year’s <b>BG2016 Conference</b>. Good luck and more power!</p></blockquote><p><br></p><p><b>Ramoncito A. Ocampo</b></p><p>President</p><p>International Elevators &amp; Equipment, Inc. (IEE)</p><p>Sponsor, Building Green Conference 2015 - 2016</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#1e1e1e"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#1e1e1e",
+              "font-size": "21px"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#1e1e1e"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/5mca2743-1400x2100-15.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "TOWARDS A CONTINUOUS PROGRESS OF INNOVATION",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<blockquote><p>DATEM Inc. is committed on <b>partnering with clients</b> who <b>give importance to environmental sustainability</b>. DATEM’s construction methodologies are aimed at building efficiency, while ensuring that they adhere to standard green building policies.</p><p><br>Testaments to this commitment are the projects that we built that are certified green buildings like The Mind Museum, Arya Residences, Unilab Corporate Centers, Net Park, De La Salle University Rufino Campus, and Botanika Nature Residences.<br></p><p><br>We believe that as we progress, we should also continue to innovate in building technologies that are sustainable, and are least harmful to the environment.That is why programs like the <b>Building Green Conference</b> of <b>PHILGBC</b> are <b>vital</b> to the <b>continuous improvements</b> in the construction industry, in developing safer, and more sustainable processes.&nbsp;</p></blockquote><p><br></p><p><b>Levy Espiritu</b></p><p>President</p><p>DATEM Incorporated</p><p>Sponsor, Building Green Conference 2015 - 2016</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H1": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/picture1-2000x1341-53.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#0038a8",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "BECOME A SPONSOR",
+          "text": "BG2016 provides our industry partners with premium opportunities to enhance your company's visibility in the market. &nbsp;The conference allows you to connect with your target audience and potential clients.<br><br>Please contact the PHILGBC National Secretariat if you would like to become a sponsor of BG2016.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPONSORSHIP INQUIRIES</a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sponsors-2000x1125-22-2000x1125-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sponsors-2000x1125-22.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide7-2000x1125-9-2000x1125-99.png",
+                "image": "@PROJECT_PATH@/assets/images/slide7-2000x1125-9.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide8-2000x1125-59-2000x1125-35.png",
+                "image": "@PROJECT_PATH@/assets/images/slide8-2000x1125-59.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/meralco-2000x1125-24-2000x1125-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meralco-2000x1125-24.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide11-2000x1125-60-2000x1125-57.png",
+                "image": "@PROJECT_PATH@/assets/images/slide11-2000x1125-60.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/ieei-2000x1125-26-2000x1125-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ieei-2000x1125-26.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/schneiderelectric-2000x1125-38-2000x1125-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schneiderelectric-2000x1125-38.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/samsung-2000x1125-39-2000x1125-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/samsung-2000x1125-39.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide11-2000x1125-92-2000x1125-99-2000x1125-50-2000x1125-19.png",
+                "image": "@PROJECT_PATH@/assets/images/slide11-2000x1125-92-2000x1125-99-2000x1125-50.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-datem-2000x1125-4-2000x1125-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-datem-2000x1125-4.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-arthaland-2000x1125-37-2000x1125-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-arthaland-2000x1125-37.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-parexgroup-2000x1125-29-2000x1125-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-parexgroup-2000x1125-29.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide11-2000x1125-16-2000x1125-42-2000x1125-97.png",
+                "image": "@PROJECT_PATH@/assets/images/slide11-2000x1125-16-2000x1125-42.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-ecotektonika-2000x1125-26-2000x1125-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-ecotektonika-2000x1125-26.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-net-pacific-2000x1125-37-2000x1125-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sc-tmp-2016webbanners-net-pacific-2000x1125-37.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2",
+          "articleLayout": true
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/co-organizer-2000x1125-66-2000x1125-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/co-organizer-2000x1125-66.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/globallink-2000x1125-69-2000x1125-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/globallink-2000x1125-69.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/picture2-2000x1338-47.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#0038a8",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "THOUGHT LEADERS IN THE INDUSTRY",
+          "text": "BG2016 features local and foreign industry experts and leaders in the industry, from both the government and the property sectors.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#gallery2-1\" data-toolbar=\"-mbrBtnMove\">BG2016 SPEAKERS</a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-jmzubiri-2000x1125-9-2000x1125-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-jmzubiri-2000x1125-9.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-paquino-2000x1125-77-2000x1125-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-paquino-2000x1125-77.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-bg-16-ldiaz-2000x1125-77-2000x1125-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-bg-16-ldiaz-2000x1125-77.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-dsaldua-2000x1125-63-2000x1125-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-dsaldua-2000x1125-63.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-aagoncillo-2000x1125-65-2000x1125-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-aagoncillo-2000x1125-65.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-jtan-2000x1125-16-2000x1125-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-jtan-2000x1125-16.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sc-tmp-2016-webbanners-bmcclelland2-2000x1125-55-2000x1125-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sc-tmp-2016-webbanners-bmcclelland2-2000x1125-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-marioberta-2000x1125-92-2000x1125-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-marioberta-2000x1125-92.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-swong-2000x1125-79-2000x1125-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-swong-2000x1125-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-esabidong2-2000x1125-3-2000x1125-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-esabidong2-2000x1125-3.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-rcruz-2000x1125-21-2000x1125-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-rcruz-2000x1125-21.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-edeguzman-2000x1125-58-2000x1125-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-webbnnr-2016-0902-edeguzman-2000x1125-58.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sec-tmp-2016-webbanners-amaralit-2000x1125-91-2000x1125-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sec-tmp-2016-webbanners-amaralit-2000x1125-91.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bgc-bnr-2016-0902-bg2016-speakers-case-studies-tng-2000x1125-64-2000x1125-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bgc-bnr-2016-0902-bg2016-speakers-case-studies-tng-2000x1125-64.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1",
+          "articleLayout": true
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-4",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumb-nik-2594-1024-2000x1325-33.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#0038a8",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "ENGAGE, LEARN, and COMPEL",
+          "text": "ENGAGE your industry partners. LEARN about emerging green building issues and trends. Together, let's COMPEL the market to build green.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#content4-0\" data-toolbar=\"-mbrBtnMove\">BG2016 AGENDA<br></a> "
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#ce1126",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#0038a8",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-0",
+          "title": "BUILDING GREEN ANNUAL CONFERENCE 2016",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "ENGAGE. LEARN. COMPEL. &nbsp;Sustaining the Philippines' Green Building Agenda."
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#434343"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "_anchor": "content1-0",
+          "text": "<p>The Philippine Green Building Council (PHILGBC), an Established Member of the World Green Building Council (WGBC) will be staging its 10th annual green building event, BG2016 on September 23, 2016 at the SMX Convention Center in Pasay City. </p><p>This event will be held as part of the celebration of the<i> World Green Building Week</i> led by the WGBC together with the 75 national green building councils around the world on September 26 – October 2, 2016.</p><p>This year, the World Green Building Week theme is \"Change Your Perspective\". It aims to inform people and spread awareness about the interesting and most often untold facts about buildings, especially green buildings, that, when read or heard of, will change how people think. Making people aware of these facts will help them understand the role of green buildings in creating positive impact and huge benefits to global emissions, energy, water, health and well-being, the economy, and beyond. BG2016 carries the same theme.</p><p>By bringing together fellow green builders from the academe, civil society, government, business, professionals, and other stakeholders of the building and construction industry to discuss and learn about sustainability initiatives from public and private sector experts, the Philippine Green Building Council hopes to tackle government actions concerning: climate change and its effect on the country’s environmental future, promotion of green building to more developers, the impact of technology to the real estate industry, and efforts to provide education on sustainability. Through presentations and panel discussions, the BG2016 will also feature global, regional, and local issues, breakthroughs, practices, and technologies for more sustainable buildings.</p><p>After 10 successful years, BG2016 is set to change people’s perspective about green buildings, build trust within the industry, and transform our cities.</p>"
+        },
+        {
+          "_inherit": "features1",
+          "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "20px",
+              "color": "#ce1126"
+            },
+            "P": {
+              "color": "#3d3d3d",
+              "text-align": "center"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ce1126"
+            }
+          },
+          "_anchor": "content4-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "2",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "BG2016 CONFERENCE AGENDA",
+          "subheader": "Tentative and Subject to Change",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "MORNING SESSION<br>",
+          "caption1": "<p>8:30 am:<br><b>Opening Ceremonies</b><br><br>8:45 am:<br><b>Opening Remarks</b><br>Raymond Rufino<br>Chairman<br>Philippine Green Building Council</p><br><p>9:00 am:<br><b>Introduction to Keynote Speaker</b><br>Christopher de la Cruz<br>CEO<br>Philippine Green Building Council</p><br><p>9:10 am:&nbsp;<br><b>Keynote Speech</b><br>Hon. Juan Miguel Zubiri<br>Senator<br>Republic of the Philippines</p><br><p><b>Awarding of Certificate and Token</b></p><p><br></p><p>9:40 am: \u001b<br><b>Department of Energy's Energy Management System</b><br>Mr. Patrick T. Aquino, CESE<br>Director<br>Energy Utilization Management Bureau<br></p><br><p>10:05 am:&nbsp;<br><b>Net Zero Building</b><br>Mr. Lorenzo Diaz<br>Market Leader - Property and Buildings<br>GHD Pty Ltd.</p><br><p>10:25 am:&nbsp;<br><b> Green Building: Greater Than The Sum of Its Parts</b><br>Mr. Darwin Saldua<br>Manager, EcoBuildings - System Integrators<br>Schneider Electric Philippines</p><br><p>10:50 am: <br><b>Solar Safety and Net Metering Benefits</b><br>Mr. Anthony Agoncillo<br>Manager, Customer Solutions &amp; Product Development<br>Manila Electric Company</p><br><p>11:15 am:<br><b>Overview of Green Building Study - MOA Signing</b><br>Aviso Valuation Services and Advisory<br>Leechiu Property Consultants, Inc.<br>PHILGBC</p><p><br>11:40 am:<br><b>Panel Discussion</b></p><p><br></p><p>12:00 nn:<br><b>Awarding of Certificates</b></p><br><p>12:10 pm:<br><b>Lunch</b><br>Video Presentations</p><p><br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "AFTERNOON SESSION<br>",
+          "caption2": "1:00 pm:&nbsp;<br><b>Building Greener Buildings</b><br>Mr. James Tan<br>Manager, Communications &amp; Programs<br>Singapore Green Building Council<br><br>1:25 pm:<br><b>Impact of Sustainability Education</b><br>Mr. Bryan Benitez McClelland<br>Co-Chair, Sustainability and Environmental Studies Dept. <br>Enderun Colleges<br><br>1:50 pm:<br><b>How Traditional Businesses Have Been Disrupted by Technology</b><br>Mr. Mario Berta<br>Founder and CEO<br>Flyspaces<br><br>2:15 pm:&nbsp;<br><b>The Value of Mixed-Use development in Ensuring Sustainable Cities</b><br>Mr. Sylvester Wong<br>Vice President<br>AECOM<br><br>2:40 pm: <br><b>Panel Discussion</b><br><br>3:15 pm:<br><b>BERDE Projects Video</b><br><b><br></b><b>Case Studies: BERDE Projects<br></b><br>3:20 pm:<br><b>Arya Residences</b><br>ArthaLand Corporation<br><br>3:40 pm:<br><b>Strata Gold Condominium</b><br>Prescon Philippines Inc.<b><br></b><br>4:00 pm:<br><b>Maynilad Safety Center</b><br>Maynilad Water Services, Inc.<br><br>4:20 pm:<br><b>Henry Sy, Sr. Hall</b><br>De La Salle University<br><b><br></b>4:40 pm:<br><b>The Net Park<br></b>The Net Group<br><br>4:55 pm<br><b>Panel Discussion <br></b><br>5:20 pm<br><b>Awarding of Certificates Speakers and Sponsors<br></b><br><b>Recap</b><br><br>5:40 pm<br><b>Closing Remarks</b><br>Rowena Ramos<br>Chair, National Convention<br><br>5:50 pm<br>BG2016 Conference Delegates Photo<br><br><b>Visit the Green Philippines 2016 Exhibit</b><br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "map1",
+          "_anchor": "map1-0",
+          "_params": {
+            "googleMap": {
+              "address": "SMX Convention Center\nSeashell Ln, Pasay, 1300 Metro Manila, Philippines",
+              "placeId": "ChIJBWEGTPnLlzMR-17StSQjSYQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#0038a8",
+              "font-size": "36px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#252525",
+              "font-size": "21px",
+              "text-align": "center"
+            },
+            ".mbr-article H3": {
+              "text-align": "center",
+              "color": "#252525"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "CHECK OUT OUR NEWSLETTER!",
+          "meta": "",
+          "text": "<h3>Click below for Building Green: The Official Newsletter of the Philippine Green Building Council</h3>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NEWSLETTER</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "30px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-0",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#1e1e1e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>#BG2016 &nbsp; #ChangeYourPerspective &nbsp; #BetterBuildGreen</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slide9-600x337-65-600x337-43.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "PHILIPPINE GREEN BUILDING COUNCIL",
+          "caption1": "is a non-stock, non-profit, organization that promotes the sharing of knowledge on green building practices to the industry to ensure a sustainable environment. ",
+          "button1": "<a data-app-btn=\"true\" href=\"http://philgbc.org\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slide10-600x337-83-600x337-85.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://berdeonline.org",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "BERDE",
+          "caption2": "is the National Voluntary Green Building Rating System in the Philippines. BERDE is developed by the Philippine Green Building Council (PHILGBC)",
+          "button2": "<a data-app-btn=\"true\" href=\"http://berdeonline.org\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slide11-600x337-18-600x337-74.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://buildinggreenphilippines.org",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "BUILDING GREEN PHILIPPINES",
+          "caption3": "or simply Building Green (BG) is the signature flagship campaign for the events of the Philippine Green Building Council.",
+          "button3": "<a data-app-btn=\"true\" href=\"http://buildinggreenphilippines.org\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "13px"
+            },
+            "B": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope-o",
+              "family": "FontAwesome",
+              "link": "mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>PHILIPPINE GREEN BUILDING COUNCIL</b><br><b>National Secretariat</b><br>Unit G-4B, The NET One Center<br>26th Street corner 3rd Avenue<br>Bonifacio Global City,<br>Taguig City 1634 Philippines",
+          "text2": "<p></p><p><strong>\u001bCONTACTS</strong><br>T &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 815 9301<br>F &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 858 8082</p>E&nbsp; &nbsp; <a href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" target=\"_blank\">secretariat@philgbc.org</a><p></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://philgbc.org\" target=\"_blank\">Philippine Green Building Council</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://berdeonline.org\" target=\"_blank\">BERDE</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://buildinggreenphilippines.org\" target=\"_blank\">Building Green Philippines</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"http://twitter.com/PHILGBC\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"http://www.facebook.com/PHILGBC\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/PHILGBC\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"http://instagram.com/PHILGBC\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2007 - 2016 Building Green Philippines and the Philippine Green Building Council. All Rights Reserved"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span style=\"font-weight: normal;\">HOME</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-1\"><span style=\"font-weight: normal;\">TIMELINE</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-2\"><span style=\"font-weight: normal;\">ABOUT</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-0\"><span style=\"font-weight: normal;\">CONTACT US</span></a></li>       ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/newsletter-headers-larger-2000x1125-84.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "FULL-SCREEN HEADER",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#0038a8"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#1e1e1e"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#1e1e1e"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-1",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#ffffff",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Philippine Green Building Council now an Established Member",
+          "meta": "",
+          "text": "<p><b>After nearly 10 years, the Philippine Green Building Council now stands among other global leaders of the World Green Building Council.</b></p><blockquote>“Dated June 7, 2016. it is with great pleasure to confirm that as the date indicated above the PGBC has attained Established Green Building Council status within the World Green Building Council WGBC-Terri Willis”</blockquote><p>MAKATI CITY – JULY 2016 – PHILGBC Chairman Ramon Rufino announces the organization’s status as an honorary member of the World Green Building Council via its CEO Terri Willis’ letter at the 1st Regular Membership Meeting held in Mayuree II, Dusit Thani Manila, Makati City, July 29.&nbsp;</p><p>Mr. Ramon Rufino, who expressed his gratitude to all the attendees, also emphasized the benefits and importance of the position awarded to the council. The established Green Building Council’s status provides additional access to technical resources and materials from other established Green Building Councils such as: being featured in WGBC global impact report, the opportunity to have the WGBC corporate advisory board, opportunity to host the WGBC Congress, and the opportunity to be part of the WGBC Board Membership among others.&nbsp;</p><blockquote>&nbsp;“Established GBCs are fully operational and displays stability in national positioning, so there is a rigorous process that the WGBC follows before you're allowed to become established. They want to check that you are stable, that you are growing, and that you have the capability to continue to push the Green Building movement in your country. Established GBCs are seen as the go - to organization regarding Green Building in their country. we want to be the voice for Green Building in the Philippines and we want, together with your input, to really push our industry toward this focus.” -Rufino</blockquote><p>The members were recognized for their unending support and encouragement as a vital part of what the council is today, starting off as a prospective member of the WGBC back in 2009 and now as an established member with plenty of opportunities. “This is really the kind of level that we are able to achieve, in being able to join all of these very well know Green Building Councils from around the world,” says Rufino.&nbsp;</p><p>Other established Green Building Councils that the PHILGBC will be joining include Green Building Council of Australia, Japan Green Building Council, Singapore Green Building Council, US Green Building Council, Green Building Council of South Africa and UK Green Building Council to name a few.</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ce1126"
+            },
+            "P": {
+              "font-size": "15px",
+              "color": "#1e1e1e"
+            }
+          },
+          "_anchor": "features1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/banner-600x337-55-600x337-81.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BG2016 CONFERENCE",
+          "caption1": "The Philippine Green Building Council (PHILGBC), an Established Member of the World Green Building Council (WGBC) will be staging its 10th annual green building event, BG2016 on September 23, 2016 at the SMX Convention Center in Pasay City.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/p1010420-600x337-5-600x337-50.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "1ST PHILGBC AWARDS ON LEADERSHIP IN GREEN BUILDING",
+          "caption2": "The Philippine Green Building Council (PHILGBC), together with the Urban Land Institute (ULI), held the 1st PHILGBC Awards on Leadership in Green Building which showcased the top companies who have incorporated green building leadership and sustainability not only in their numerous projects but within their company’s business practices as well..",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ce1126"
+            }
+          },
+          "_anchor": "features1-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/p1010349-600x337-32-600x337-44.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BG PRODUCT SPOTLIGHT",
+          "caption1": "The pioneer in green building education and trade promotion, the Philippine Green Building Council (PHILGBC) hosted the Product &nbsp;Spotlight under Building Green. It is a signature event that showcases the best practice and technologies that help transform the market today.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/p1010168-600x337-20-600x337-43.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "INSPIRING GREEN: POWER BREAKFAST",
+          "caption2": "Together with with top companies from the PHILGBC-Member networks, the Philippine Green Building Council met to discuss current issues on green building and to exchange ideas to learn, and collaborate on green building endeavors.",
+          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture1-600x342-57-600x342-84.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "PHILGBC RMM",
+          "caption3": "An event held yearly for the purpose of updating the members on where the organization stands, the current activities and their future projects, the RMM is a gathering of corporate and individual members of the Philippine Green Building Council",
+          "button3": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide1-2000x1125-22-2000x1125-73-2000x1125-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-2000x1125-22-2000x1125-73.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thenetgroup-2000x1125-83-2000x1125-98-2000x1125-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thenetgroup-2000x1125-83-2000x1125-98.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide2-2000x1125-15-2000x1125-80-2000x1125-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide2-2000x1125-15-2000x1125-80.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/republic-2000x1125-10-2000x1125-57-2000x1125-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/republic-2000x1125-10-2000x1125-57.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide3-2000x1125-42-2000x1125-7-2000x1125-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide3-2000x1125-42-2000x1125-7.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide2-2000x1125-21-2000x1125-35-2000x1125-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide2-2000x1125-21-2000x1125-35.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide3-2000x1125-60-2000x1125-76-2000x1125-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide3-2000x1125-60-2000x1125-76.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide6-2000x1125-28-2000x1125-45-2000x1125-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide6-2000x1125-28-2000x1125-45.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide11-2000x1125-56-2000x1125-39-2000x1125-41.png",
+                "image": "@PROJECT_PATH@/assets/images/slide11-2000x1125-56-2000x1125-39.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide4-2000x1125-72-2000x1125-42-2000x1125-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide4-2000x1125-72-2000x1125-42.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide5-2000x1125-43-2000x1125-17-2000x1125-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide5-2000x1125-43-2000x1125-17.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/slide7-2000x1125-93-2000x1125-25-2000x1125-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide7-2000x1125-93-2000x1125-25.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2",
+          "articleLayout": false
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "13px"
+            },
+            "B": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope-o",
+              "family": "FontAwesome",
+              "link": "mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>PHILIPPINE GREEN BUILDING COUNCIL</b><br><b>National Secretariat</b><br>Unit G-4B, The NET One Center<br>26th Street corner 3rd Avenue<br>Bonifacio Global City,<br>Taguig City 1634 Philippines",
+          "text2": "<p></p><p><strong>\u001bCONTACTS</strong><br>T &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 815 9301<br>F &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 858 8082</p>E&nbsp; &nbsp; <a href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" target=\"_blank\">secretariat@philgbc.org</a><p></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://philgbc.org\" target=\"_blank\">Philippine Green Building Council</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://berdeonline.org\" target=\"_blank\">BERDE</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://buildinggreenphilippines.org\" target=\"_blank\">Building Green Philippines</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2007 - 2016 Building Green Philippines and the Philippine Green Building Council. All Rights Reserved"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/newsletter-headers-larger-1400x787-48.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ce1126"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#1e1e1e"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "BUILDING GREEN CONFERENCE 2016",
+          "meta": "",
+          "text": "<p>Building Green 2016, an annual event held and organized by the Philippine Green Building Council, is celebrating its 10th conference on September 23, 2016 at the SMX Convention Center in Pasay City. This event will be held as part of the celebration of the World Green Building Week led by the World Green Building Council together with the 74 green building councils around the world on September 26 – October 2, 2016.</p><p><br></p><p>This year, the World Green Building Week theme is Change Your Perspective. It aims to inform people and spread awareness about the interesting and most often untold facts about buildings, especially green buildings, that, when read or heard of, will change how people think. Making people aware of these facts will help them understand the role of green buildings in creating positive impact and huge benefits to global emissions, energy, water, health and well-being, the economy, and beyond. Building Green 2016 carries the same theme.</p><p><br></p><p>By bringing together fellow green builders from the academe, civil society, government, business, professionals, and other stakeholders of the building and construction industry to discuss and learn about sustainability initiatives from public and private sector experts, the Philippine Green Building Council hopes to tackle government actions concerning climate change and its effect to the country’s future environmental landscape, promotion of green building to more developers, the impact of technology to the real estate industry, efforts to provide education on sustainability, and many more. Through presentations and panel discussions, the Building Green Conference will also feature global, regional, and local issues, breakthroughs, practices, and technologies for more sustainable buildings.</p><p><br></p><p>After 10 successful years, Building Green 2016 is set to change people’s perspective about green buildings, build trust within the industry, and transform our cities.</p><p><br></p><p>For more information on Building Green, visit <a href=\"http://philgbc.org\" target=\"_blank\">http://philgbc.org/</a> or email the PHILGBC National Secretariat at <a href=\"mailto:secretariat@philgbc.org\" target=\"_blank\">secretariat@philgbc.org</a></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span style=\"font-weight: normal;\">HOME</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-1\"><span style=\"font-weight: normal;\">TIMELINE</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-2\"><span style=\"font-weight: normal;\">ABOUT</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-0\"><span style=\"font-weight: normal;\">CONTACT US</span></a></li>       ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "13px"
+            },
+            "B": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope-o",
+              "family": "FontAwesome",
+              "link": "mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>PHILIPPINE GREEN BUILDING COUNCIL</b><br><b>National Secretariat</b><br>Unit G-4B, The NET One Center<br>26th Street corner 3rd Avenue<br>Bonifacio Global City,<br>Taguig City 1634 Philippines",
+          "text2": "<p></p><p><strong>\u001bCONTACTS</strong><br>T &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 815 9301<br>F &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 858 8082</p>E&nbsp; &nbsp; <a href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" target=\"_blank\">secretariat@philgbc.org</a><p></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://philgbc.org\" target=\"_blank\">Philippine Green Building Council</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://berdeonline.org\" target=\"_blank\">BERDE</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://buildinggreenphilippines.org\" target=\"_blank\">Building Green Philippines</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2007 - 2016 Building Green Philippines and the Philippine Green Building Council. All Rights Reserved"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span style=\"font-weight: normal;\">HOME</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-1\"><span style=\"font-weight: normal;\">TIMELINE</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-2\"><span style=\"font-weight: normal;\">ABOUT</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-0\"><span style=\"font-weight: normal;\">CONTACT US</span></a></li>       ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/newsletter-headers-larger-1400x787-60.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ce1126"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#1e1e1e"
+            },
+            ".mbr-article I": {
+              "color": "#0038a8"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Philippine Green Building Council hold 1st PHILGBC Awards on Leadership in Green Building",
+          "meta": "",
+          "text": "<p>TAGUIG – JULY 14, 2016 – The Philippine Green Building Council (PHILGBC) awarded its first set of winners for Leadership in Green Building during the ULI-PHILGBC Awards for Excellence in Health and Sustainability held at the 37th Floor, Net Park in Bonifacio Global City, Taguig City.</p><p>The PHILGBC Awards on Leadership in Green Building showcased the top companies who have incorporated green building leadership and sustainability not only in their numerous projects but within their company’s business practices as well.&nbsp;</p><p>Mr. Ramon Rufino, PHILGBC Chairman and President of The Net Group shared “for the first time, the PHILGBC will be holding the Philippine leg to the Asia Pacific Leadership in Green Building Awards competition. Tonight’s winners will represent the Philippines at the Asia Pacific regional competition and the PHILGBC will submit our country’s winners to the World Green Building Council tomorrow.”</p><p>The Awards on Leadership in Green Building is in line with the World Green Building Council’s (WGBC) Asia Pacific Network (APN) Awards for Leadership in Green Building, the only award giving body that recognizes green building achievements and recognitions among its members in the national Green Building Councils in the Asia Pacific Region. The winners of the PHILGBC Awards will be the official nominees from the Philippines at the WGBC APN Awards.&nbsp;</p><p>There are two award categories namely:  Business Leadership in Sustainability and Leadership in Sustainability Design and Performance.  The Business Leadership in Sustainability Award is given to the company that has incorporated sustainability within their business models and have set an example by demonstrating sustainable practices in their operations and leadership within the industry through contributions towards the sustainable built environment. The Leadership in Sustainable Design and Performance Award is given to pioneering green building projects that provide a range of benefits by a holistic approach to sustainability that leads to positive outcomes for both the environment and people. The three sub categories of the award are as follows: residential, commercial, and institutional.&nbsp;</p><p>”I think it’s still an understatement, going through the eye of the needle,” quipped Mr. de la Cruz, CEO of the PHILGBC on the meticulous process of screening the winners, which include looking into business practices and models, as well as strategies and actions implemented in green building projects that create sustainable built environments.&nbsp;</p><p><b>ArthaLand Corporation</b>, the winner for <b>Business Leadership in Sustainability</b>, is a Filipino boutique developer well-known for integrating sustainable, green building practices in their top quality buildings and residences, as well as in their business models serving as a prime example for sustainable built environments.</p><p><b>The Zuellig Building</b> by <b>Bridgebury Realty Corporation</b> received the <b>Leadership in Sustainability Design &amp; Performance Award</b> for the Commercial sub-category. Recognized as Platinum LEED certified, the project green building practices and strategies for a cost efficient, sustainable, eco-friendly building.</p><p><b>The Primavera Residences</b> by <b>Italpinas Euroasian Design &amp; Development Corporation</b> received the <b>Leadership in Sustainability Design &amp; Performance Award for Residential</b> sub-category. It is the company’s first sustainable, mixed-used development located in Cagayan de Oro that utilizes renewable sources of energy and green strategies that promote an eco-friendly environment.&nbsp;</p><p>Winners of the WorldGBC Asia Pacific Network Awards will be announced in October 2016 during the India Green Building Council Conference in Mumbai.</p><p>For information on the PHILGBC Awards, visit <a href=\"http://philgbc.org\" target=\"_blank\">http://philgbc.org/</a> or email the PHILGBC National Secretariat at <a href=\"mailto:secretariat@philgbc.org\" target=\"_blank\">secretariat@phillgbc.org</a></p><p><b><br></b></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "13px"
+            },
+            "B": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope-o",
+              "family": "FontAwesome",
+              "link": "mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>PHILIPPINE GREEN BUILDING COUNCIL</b><br><b>National Secretariat</b><br>Unit G-4B, The NET One Center<br>26th Street corner 3rd Avenue<br>Bonifacio Global City,<br>Taguig City 1634 Philippines",
+          "text2": "<p></p><p><strong>\u001bCONTACTS</strong><br>T &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 815 9301<br>F &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 858 8082</p>E&nbsp; &nbsp; <a href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" target=\"_blank\">secretariat@philgbc.org</a><p></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://philgbc.org\" target=\"_blank\">Philippine Green Building Council</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://berdeonline.org\" target=\"_blank\">BERDE</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://buildinggreenphilippines.org\" target=\"_blank\">Building Green Philippines</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2007 - 2016 Building Green Philippines and the Philippine Green Building Council. All Rights Reserved"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span style=\"font-weight: normal;\">HOME</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-1\"><span style=\"font-weight: normal;\">TIMELINE</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-2\"><span style=\"font-weight: normal;\">ABOUT</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-0\"><span style=\"font-weight: normal;\">CONTACT US</span></a></li>       ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/newsletter-headers-larger-1400x787-45.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ce1138"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#1e1e1e"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#1e1e1e"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-1",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Top companies showcase the latest in green building technology, products and strategies",
+          "meta": "",
+          "text": "<p>People from all sectors of the building industry gather for this year’s Philippine Green Building Council Building Green: Product Spotlight</p><p><br></p><p>MAKATI CITY – JULY 13, 2016 – The Philippine Green Building Council (PHILGBC) conducted the Building Green Product Spotlight at the Mayuree Ballroom of the Dusit Thani Manila. Building Green (BG) is the pioneer green building education and trade promotion series of the PHILGBC. As part of the BG series, the BG Product Spotlight is a signature event that showcased the best practice and technologies that helped shaped the market today. Stakeholders from the different sectors of the building industry gathered at the event.&nbsp;</p><p><br></p><p>The increasing demand for green solutions and innovations from the PHILGBC members and fellow green builders have pushed for the development of the BG Product Spotlight event. It became the venue for the stakeholders to learn, communicate and exchange information about the current green technologies available in the market today.&nbsp;</p><p><br></p><p>This year’s BG Product Spotlight was presented by PHILGBC’s Sustaining Corporate Members namely: The Net Group, a Diamond Sustaining Corporate Member; Republic Cement Services Corporation, Gold Sustaining Corporate Member, and Silver Sustaining Corporate Members - Air &amp; Odor Management Philippines, Autodesk Pty. Ltd.; Kaskal Philippines Inc.; Megawide; Monocrete Construction and Products, Inc., and World Home Depot.&nbsp;</p><p><br></p><p>The products and services presented during the event included presentations on: (i) materials that addresses issues on molds and improve indoor health from AOM Philippines; (ii) the latest building software from Autodesk; (iii) ceiling systems that contribute to indoor environment quality from World Home Depot; (iv) façade technologies that contribute to reducing heat and promotes natural lighting from Kaskal Philippines, Inc.; and (v) cement products and technologies that mitigate carbon emissions and contribute to reducing heat gain from Republic Cement. &nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><p>In his closing remarks, PHILGBC CEO Mr. Christopher de la Cruz shared&nbsp;</p><blockquote>“a common argument that we hear is green building is expensive because it requires cutting-edge technologies, cutting-edge technologies are expensive, therefore green building is expensive. In fact, today and in our future activities, we are slowly going to introduce to you that the technologies here for us to use, it’s not actually really expensive, they’re actually here and you can have small conversations with them. The intent of the activity really is about educating all of us about the technologies that are available in the market that allows us to design and build green.”</blockquote><p>For more information on Building Green, visit <a href=\"http://philgbc.org\" target=\"_blank\">http://philgbc.org/</a> or email the PHILGBC National Secretariat at <a href=\"mailto:secretariat@philgbc.org\" target=\"_blank\">secretariat@phillgbc.org</a> </p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "13px"
+            },
+            "B": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope-o",
+              "family": "FontAwesome",
+              "link": "mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>PHILIPPINE GREEN BUILDING COUNCIL</b><br><b>National Secretariat</b><br>Unit G-4B, The NET One Center<br>26th Street corner 3rd Avenue<br>Bonifacio Global City,<br>Taguig City 1634 Philippines",
+          "text2": "<p></p><p><strong>\u001bCONTACTS</strong><br>T &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 815 9301<br>F &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 858 8082</p>E&nbsp; &nbsp; <a href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" target=\"_blank\">secretariat@philgbc.org</a><p></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://philgbc.org\" target=\"_blank\">Philippine Green Building Council</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://berdeonline.org\" target=\"_blank\">BERDE</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://buildinggreenphilippines.org\" target=\"_blank\">Building Green Philippines</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2007 - 2016 Building Green Philippines and the Philippine Green Building Council. All Rights Reserved"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span style=\"font-weight: normal;\">HOME</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-1\"><span style=\"font-weight: normal;\">TIMELINE</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-2\"><span style=\"font-weight: normal;\">ABOUT</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-0\"><span style=\"font-weight: normal;\">CONTACT US</span></a></li>       ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/newsletter-headers-larger-1400x787-26.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ce1126"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#1e1e1e"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#1e1e1e"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#ffffff",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Inspiring Green: Power Breakfast",
+          "meta": "",
+          "text": "<p><b>Power Breakfast is a casual meeting organized by the PHILGBC with property developers, owners, and brokers to stimulate mutual, meaningful inputs on the BERDE program.</b></p><p>&nbsp;TAGUIG CITY – JULY 8, 2016 – The Philippine Green Building Council (PHILGBC) met with top companies from the PHILGBC-Member networks to discuss current issues on green building and to exchange ideas to learn, and collaborate on green building endeavors for their companies.&nbsp;</p><p>Attending the meeting are PHILGBC CEO Mr. Christopher de la Cruz; Chairman of the PHILGBC Mr. Ramon Rufino; and Chairman of the PHILGBC Membership Committee Mr. Edgar Sabidong. The companies in attendance are KMC Savills represented by Mr. Michael Glindro, Senior Associate; D.M Wenceslao represented by their CEO Mr. Buds Wenceslao; and Italpinas Euroasian Design &amp; Development Corporation represented by their Chairman and CEO Mr. Romulo Nati and President Mr. Jojo Leviste. &nbsp;</p><p>The primary focus of the discussion is heavily on BERDE (or Building for Ecologically Responsive Design Excellence) which is the National Green Building Rating System established by the PHILGBC. It is used to measure and verify a building’s performance that exceeds existing mandatory standards or regulations. BERDE, a continuous work in progress, is held in high regard by the said developers aiming to further promote the system itself to their co-developers.</p><blockquote>“We would like to find out from your perspective, maybe two quick questions: What is your perception of the BERDE rating tool vis-à-vis your company and what you think are the challenges you see whether it’s from a marketing point of view or implementation as far as BERDE is concerned.”  -Mr. Ramon Rufino, Chairman of the PHILGBC</blockquote><p>This brings to the table various perspectives of each of the PHILGBC’s Member Networks on BERDE itself, it opens numerous doors for evaluation and possible opportunities for BERDE to grow more into a better version. Some of the points raised involved the system, the marketing, the processes, and also solutions and positive feedbacks on the current effort the PHILGBC has taken to promote BERDE throughout the country.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "13px"
+            },
+            "B": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope-o",
+              "family": "FontAwesome",
+              "link": "mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>PHILIPPINE GREEN BUILDING COUNCIL</b><br><b>National Secretariat</b><br>Unit G-4B, The NET One Center<br>26th Street corner 3rd Avenue<br>Bonifacio Global City,<br>Taguig City 1634 Philippines",
+          "text2": "<p></p><p><strong>\u001bCONTACTS</strong><br>T &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 815 9301<br>F &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 858 8082</p>E&nbsp; &nbsp; <a href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" target=\"_blank\">secretariat@philgbc.org</a><p></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://philgbc.org\" target=\"_blank\">Philippine Green Building Council</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://berdeonline.org\" target=\"_blank\">BERDE</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://buildinggreenphilippines.org\" target=\"_blank\">Building Green Philippines</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2007 - 2016 Building Green Philippines and the Philippine Green Building Council. All Rights Reserved"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-0",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/newsletter-headers-larger-1400x787-86.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ce1126"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#1e1e1e"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#1e1e1e"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Corporate and individual members gather for Regular Membership Meeting",
+          "meta": "",
+          "text": "<p><b>An event held thrice a year, the RMM is focused on informing the membership with the current, and future activities of the council.</b><br></p><p>MAKATI CITY – JUNE 29, 2016 – The Philippine Green Building Council (PHILGBC) organized the PHILGBC Regular Membership Meeting (RMM), an event held yearly for the purpose of updating the members on where the organization stands, the current activities and their future projects. The meeting, which was attended by corporate and individual members, was held at the Mayuree II, Dusit Thani Manila, Makati City.&nbsp;</p><p>This year, the PHILGBC’s RMM focused on engaging the membership to do more, to continue growing in number and maintaining the amount of support they have with the council's current standing globally. The council also provided the current number of members the PHILGBC has and recognized the sustaining members who have been with them from the beginning. During the members’ hour, the PHILGBC answered several questions revolving around certification, policies, and suggestions for future endeavors. The BERDE User Guide, an easier, more comprehensive version of the green building rating tool guide was also released. The program also invited a speaker to talk about the Philippine Green Building Code, collectively the highlight of the RMM is the PHILGBC’s Established Green Building Council status given by the World Green Building Council (WGBC), a goal the PHILGBC has worked hard for.</p><blockquote>“To the secretariat, to our board of trustees, and to all of you our members and supporters. We would not have been able to get here if not for your support and encouragement throughout the years, so this is something we have been working on for a very long time and it’s really a great moment for us to share this with all of you.” -Mr. Ramon Rufino, Chairman of the PHILGBC&nbsp;</blockquote><p>Rufino also provided the calendar of activities the PHILGBC has in store for the membership. The events are as follows:</p><p>a.)\tJULY 13 - Building Green Product Spotlight: which features the PHILGBC Silver and Gold sustaining members presenting the latest in green building products, services, and technology</p><p>b.)\tJULY 14 – The Urban Land Institute (ULI) – Philippines and PHILGBC Awards on Health and Sustainability that recognizes the companies who have incorporated green building practices and sustainability in their companies and projects.</p><p>c.)\tAUGUST 31 – will be the next date for the 2nd Regular Membership Meeting</p><p>d.)\tSEPTEMBER 23 – Building Green Conference 2016: an event held in conjunction with the global celebration of the World Green Building Week. This is the flagship project of the PHILGBC</p><p>Other events mentioned are the Green Building Tour (organized later in the year), the General Membership Meeting (on November), and the Annual Year-end Christmas Party (for December.)</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">BACK TO MAIN PAGE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span style=\"font-weight: normal;\">HOME</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-1\"><span style=\"font-weight: normal;\">TIMELINE</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-2\"><span style=\"font-weight: normal;\">ABOUT</span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-0\"><span style=\"font-weight: normal;\">CONTACT US</span></a></li>       ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "13px"
+            },
+            "B": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c",
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "envelope-o",
+              "family": "FontAwesome",
+              "link": "mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<b>PHILIPPINE GREEN BUILDING COUNCIL</b><br><b>National Secretariat</b><br>Unit G-4B, The NET One Center<br>26th Street corner 3rd Avenue<br>Bonifacio Global City,<br>Taguig City 1634 Philippines",
+          "text2": "<p></p><p><strong>\u001bCONTACTS</strong><br>T &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 815 9301<br>F &nbsp;&nbsp;&nbsp;&nbsp;(+63 2) 858 8082</p>E&nbsp; &nbsp; <a href=\"mailto:secretariat@philgbc.org?subject=buildinggreenphilippines.org\" target=\"_blank\">secretariat@philgbc.org</a><p></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://philgbc.org\" target=\"_blank\">Philippine Green Building Council</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://berdeonline.org\" target=\"_blank\">BERDE</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://buildinggreenphilippines.org\" target=\"_blank\">Building Green Philippines</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2007 - 2016 Building Green Philippines and the Philippine Green Building Council. All Rights Reserved"
+        }
+      ]
+    }
+  }
+}
